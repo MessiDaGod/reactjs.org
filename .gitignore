@@ -39,3 +39,4 @@ public/fonts/**/Optimistic_*.woff2
 
 # rss
 public/rss.xml
+.vscode/
